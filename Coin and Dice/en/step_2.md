@@ -24,7 +24,7 @@ Make a list which contains your coins.
 
 Assign this list to the variable name `coinOptions`.
 
-![Making a List](images/AssigningVariables.png)
+![Making a List](images/assigningvariables.png)
 
 --- /task ---
 
