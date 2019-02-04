@@ -8,10 +8,6 @@ First, we'll need images of both heads and tails. You can use these images by dr
 ![Tails](images/Tail.png)
 ![Heads](images/Head.png)
 
-Use `ImageResize` to resize your images so that they are 100 pixel squares.
-
-![Resizing an Image](images/ImageResize.png)
-
 Assign each coin a variable name. `heads` for the head coin, and `tails` for the tail coin.
 
 ![Set Up](images/setup.png)
