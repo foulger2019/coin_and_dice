@@ -3,21 +3,20 @@
 First, we will be building the coin flipper. The coin flipper is fairly simple: we want to be able to press a button and randomly return either heads or tails.
 
 --- task ---
-First, we'll need images of both heads and tails. You can use these images by dragging them in to your notebook, or you could find other images, maybe in a different currency.
+First, we'll need images of both heads and tails. You can use these images by copy/pasting them in to your notebook, or you could find other images, maybe in a different currency.
 
 ![Heads](images/Head.png)
 ![Tails](images/Tail.png)
 
-Assign each coin a variable name. `heads` for the head coin, and `tails` for the tail coin.
+Assign each coin a variable name. `heads` for the head coin, and `tails` for the tail coin. Use a `;` after each line to supress the output, otherwise the image of the coin will print whenever you run this code.
 
 ![Set Up](images/setup.png)
+
 --- /task ---
 
 We need a list of the coin options.
 
 Lists start with `{` and end with `}`, and each element is separated by a `,`.
-
-When you run the code for `ImageResize`, the output will be the resized image. Click on the resized image and copy it into your list.
 
 --- task ---
 Make a list which contains your coins.
