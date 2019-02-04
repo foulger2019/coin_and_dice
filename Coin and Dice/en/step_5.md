@@ -2,7 +2,7 @@
 
 Build a `Manipulate` function which allows the user to roll between 1 and 6 dice at the same time.
 
-![Complete](images/Complete.png)
+![Complete](images/complete.png)
 
 --- hints ---
 --- hint ---
