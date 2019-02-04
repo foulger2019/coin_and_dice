@@ -21,9 +21,9 @@ Look in the documentation for `Manipulate` to work out how to change the `Contro
 Give your `Manipulate` buttons a name, like "Number of Rolls".
 --- /hint---
 
-`--- hint ---``
+--- hint ---
 
-Manipulate[
+```Manipulate[
  Grid[{RandomChoice[{one, two, three, four, five, six}, i]}], {{i, 1, 
    "Number of Rolls"}, 1, 6, 1, ControlType -> RadioButton}]
 ```
