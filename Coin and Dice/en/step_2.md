@@ -5,8 +5,8 @@ First, we will be building the coin flipper. The coin flipper is fairly simple: 
 --- task ---
 First, we'll need images of both heads and tails. You can use these images by dragging them in to your notebook, or you could find other images, maybe in a different currency.
 
-![Tails](images/Tail.png)
 ![Heads](images/Head.png)
+![Tails](images/Tail.png)
 
 Assign each coin a variable name. `heads` for the head coin, and `tails` for the tail coin.
 
