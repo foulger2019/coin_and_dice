@@ -22,3 +22,7 @@ Button["Flip the Coin", coin = RandomChoice[coinOptions]]},
 {Dynamic[dice], Dynamic[coin]}}]
  ```
 --- /task ---
+
+Congratulations, you have built a coin flipper and a dice roller tool!
+
+![Complete project](images/Complete1.png)
